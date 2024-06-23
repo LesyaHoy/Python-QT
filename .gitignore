@@ -3,3 +3,8 @@
 /test collapsing menu/resources_rc.py
 /test collapsing menu/make_ui_v2.cmd
 /test collapsing menu/requirements.txt
+/expanding collapsing bottom panel/Ui_main_window.py
+/expanding collapsing bottom panel/setup_environment.cmd
+/expanding collapsing bottom panel/resources_rc.py
+/expanding collapsing bottom panel/requirements.txt
+/expanding collapsing bottom panel/make_ui_v2.cmd
